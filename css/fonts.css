@@ -1,0 +1,15 @@
+
+/* Manrope */
+@font-face {
+    font-family: "Manrope";
+    src: url(../fonts/manrope/static/Manrope-Regular.ttf);
+    font-weight: 400;
+}
+
+
+/* Fraunces */
+@font-face {
+    font-family: "Fraunces";
+    src: url(../fonts/fraunces/static/Fraunces_144pt-SemiBold.ttf);
+    font-weight: 600;
+}
